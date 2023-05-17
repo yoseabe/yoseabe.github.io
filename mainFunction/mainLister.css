@@ -1,0 +1,75 @@
+.blog-entry{
+	border: 1px solid red;
+	padding-bottom: 30px !important;
+}
+.text-blog .meta{
+	text-transform: uppercase;
+	font-size: 13px;
+	margin-bottom: 0;
+}
+.btn{
+	padding: 5px 15px;
+	display: inline-block;
+}
+.btn.btn-primary{
+	border-radius: 5px;
+	background:black;
+	color: #ffffff;
+	font-size: 13px;
+	cursor:pointer;
+}
+.btn.btn-white{
+	border-radius: 30px;
+	background: #ffffff;
+	color: #000000;
+}
+.btn.btn-white-outline{
+	border-radius: 30px;
+	background: transparent;
+	border: 1px solid #fff;
+	color: #fff;
+}
+
+@media (max-width: 900px) {
+	/*Phone*/
+
+
+}
+.testing{
+	background-color: #ffffff;
+	margin-left: 20px;
+	text-align: "left";
+	padding-left: 1px;
+	width: 250px;
+}
+
+
+/* alles */
+.meta{
+	padding-bottom: 20px;
+	line-height: 1.8;
+	padding: 0px !important;
+
+}
+
+
+.aiName{
+	color: black;
+	padding-bottom: 0px;
+	/* padding-top: 10px; */
+	font-size: 25px;
+	margin-bottom: 0;
+	font-weight: 600;
+}
+.companyName{
+	margin-top: -10px;
+    font-size: 15px;
+	
+
+}
+.aiDescription{
+	padding-top: 10px;
+	padding-bottom: 20px;
+	margin-bottom: -10px;
+	padding-right: 20px;
+}

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+    <meta charset="utf-8"> <!-- utf-8 works for most cases -->
+    <meta name="viewport" content="width=device-width"> <!-- Forcing initial-scale shouldn't be necessary -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
+    <meta name="x-apple-disable-message-reformatting">  <!-- Disable auto-scale in iOS 10 Mail entirely -->
+    <title></title> <!-- The title tag shows in email notifications, like Android 4.4. -->
+
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600,700|Lato:300,400,700" rel="stylesheet">
+	<link rel="stylesheet" href="mainPage/index.css">
+	<script src="mainPage/index.js"></script>
+  <script src="mainFunction/mainLister.js"></script>
+  <link rel="stylesheet" href="mainFunction/mainLister.css">
+
+
+
+</head>
+
+<body width="100%" style="margin: 0; padding: 0 !important; line-height: exactly; background-color: #d4d4d4;">
+
+	<center id="phone" class="hdgdl">
+    <div style="display: none; font-size: 1px;max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; display: none; font-family: sans-serif;background-color:blue;">
+      &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+    </div>
+	<div id="navbar">   
+    </div>
+	</div>
+    <div id="theRestbody" style="max-width: 600px; margin: 0 auto; " class="email-container">
+        <div>
+    	<!-- BEGIN BODY -->
+      <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: auto;">
+	      <tr>
+          <td valign="middle" class="hero bg_white" style="background-image: url(../images/robotLibrary2.png); background-size: cover; height: 500px; width: 545px; ">
+          	<div class="overlay"></div>
+            <table>
+            	<tr>
+            		<td>
+            		  <div class="text" style="padding: 0 4em; text-align: center;">
+            				<h1 class="logo"><a href="#">Noxe</a></h1>
+            				<h2>AI Library</h2>
+            				<p>Revolutionize your work with AI!</p>
+            				<p><a type="button" href="#" id="showAIs" class="btn btn-primary" onclick="toggleNav()">Show all AIs</a></p>
+							<p></p>
+            			</div>
+            		</td>
+            	</tr>
+            </table>
+			<div id ="humburger" type="button" class="navbar-toggle" onclick="toggleNav()">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+          </td>
+	      </tr><!-- end tr -->
+	      <tr>
+	        <td class="bg_white email-section">
+	        	<div class="heading-section" style="text-align: center; padding: 0 30px;">
+	          	<h2 style="text-decoration: underline">Trending AIs</h2>
+	        	</div>
+	        	<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+	        		<!-- This is where the listing beginns -->
+                  <script>mainLister(0);</script>
+                  <div id="table-row"></div>         
+                  <!--END-->
+        	<td class="bg_white">
+        		<table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+        			<tr>
+                <td>
+                  <a><img src="../images/AILearningNewThings2.png" alt="" style="width: 100%; max-width: 600px; height: auto; margin: auto; display: block;"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="text-blog" style="text-align: center; padding: 2em 2.5em">
+                	<p class="meta"><span>-------------</span> <span></span></p>
+                	<h3 style="font-size: 24px;">Unleash your productivity with AI</h3>
+                 	<p>AI can help you complete tasks faster and more accurately, increasing productivity and efficiency.</p>
+                 	<p><a href="#" class="btn btn-primary">Try AIs</a></p>
+                </td>
+              </tr>
+        		</table>
+        	</td>
+        </tr><!--  -->
+      <!-- 1 Column Text + Button : END -->
+      </table>
+      <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: auto;">
+      	<tr>
+          <td valign="middle" class="bg_black footer email-section">
+            <table>
+            	<tr>
+                <td valign="top" width="33.333%" style="padding-top: 20px;">
+                  <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tr>
+                      <td style="text-align: left; padding-right: 10px;">
+                      	<h3 class="heading">About</h3>
+                      	<p>A website with links to various useful AIs, helping users find the right tools to enhance their experience.</p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td valign="top" width="33.333%" style="padding-top: 20px;">
+                  <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tr>
+                      <td style="text-align: left; padding-left: 5px; padding-right: 5px;">
+                      	<h3 class="heading">Contact Info</h3>
+                      	<ul>
+					                <li><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
+					                <li><span class="text">+2 392 3929 210</span></a></li>
+					              </ul>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td valign="top" width="33.333%" style="padding-top: 20px;">
+                  <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tr>
+                      <td style="text-align: left; padding-left: 10px;">
+                      	<h3 class="heading">Useful Links</h3>
+                      	<ul>
+					                <li><a href="#">Home</a></li>
+					                <li><a href="#">About</a></li>
+					                <li><a href="#"; onclick="gotoPage()">Privacy Policy</a></li>
+					                <li><a href="#"></a></li>
+					              </ul>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr><!-- end: tr -->
+        <tr>
+        	<td valign="middle" class="bg_black footer email-section">
+        		<table>
+            	<tr>
+                <td valign="top" width="33.333%">
+                  <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tr>
+                      <td style="text-align: left; padding-right: 10px;">
+                      <p>&copy; Noxe 2023. All Rights Reserved</p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td valign="top" width="33.333%">
+                  <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tr>
+                      <td style="text-align: right; padding-left: 5px; padding-right: 5px;">
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+        	</td>
+        </tr>
+      </table>
+
+    </div>
+  </center>
+</body>
+
+</html>

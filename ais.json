@@ -1,0 +1,200 @@
+
+{
+  "categories": [
+    {
+      "type": "Home",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "Company": "Openai",
+          "description": "Chatbot that generates contextually relevant responses to user input in natural language conversations.",
+          "link": "https://chat.openai.com/chat",
+          "image": "images/ChatGPT.gif"
+        },
+        {
+          "name": "Midjourney",
+          "Company": "Midjourney",
+          "page": "artandcreativityPage/artandcreativity.html",
+          "description": "An artificial intelligence capable of creating high-quality AI-generated art using Discord.",
+          "link": "https://midjourney.com/home/?callbackUrl=%2Fapp%2F",
+          "image": "images/MidJourney.gif"
+        },
+        {
+          "name": "DALL·E 2",
+          "Company": "Openai",
+          "description": "A new AI system that can create realistic images and art from a description in natural language.",
+          "link": "https://openai.com/dall-e-2/",
+          "image": "images/dalle2.gif"
+        },
+        {
+          "name": "Magic Eraser",
+          "Company": "Magic Studio",
+          "description": "AI-powered photo editor to easily remove unwanted objects from your photos in seconds.",
+          "link": "https://magicstudio.com/magiceraser",
+          "image": "images/magiceraser.gif"
+        }
+      ]
+    },
+
+    {
+      "type": "Art & Creativity",
+      "items": [
+        {
+          "name": "Midjourney",
+          "Company": "Midjourney",
+          "page": "artandcreativityPage/artandcreativity.html",
+          "description": "An artificial intelligence capable of creating high-quality AI-generated art using Discord.",
+          "link": "https://midjourney.com/home/?callbackUrl=%2Fapp%2F",
+          "image": "../images/MidJourneyLogo.png"
+        },
+        {
+          "name": "DALL·E 2",
+          "Company": "Openai",
+          "description": "A new AI system that can create realistic images and art from a description in natural language.",
+          "link": "https://openai.com/dall-e-2/",
+          "image": "../images/open-ai-dalle.png"
+        },
+        {
+          "name": "roomGPT",
+          "Company": "Replicate, Upload, and Vercel",
+          "description": "Generating dream rooms using AI for everyone. Take a picture of your room and see how your room looks in different themes.",
+          "link": "https://www.roomgpt.io/",
+          "image": "images/roomgpt.gif"
+        }
+      ]
+    },
+    {
+      "type": "Chatbot",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "Company": "Openai",
+          "description": "Chatbot that generates contextually relevant responses to user input in natural language conversations.",
+          "link": "https://chat.openai.com/chat",
+          "image": "../images/ChatGPT.gif"
+        },
+        {
+          "name": "YouChat",
+          "Company": "You",
+          "description": "AI-powered chatbot that functions like a search engine, providing you with easy access to information on the web and helping you find exactly what you're looking for.",
+          "link": "https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat",
+          "image": "images/youChat.png"
+        },
+        {
+          "name": "Replika",
+          "Company": "Luka, Inc.",
+          "description": "Replika is meant to be a support for lonely people during difficult times. The AI is intended to serve as a buddy that can be messaged at any time to chat about anything.",
+          "link": "https://replika.com/",
+          "image": "images/replika.png"
+        }
+      ]
+    },
+
+    {
+      "type": "Photo Editing",
+      "items": [
+        {
+          "name": "Magic Eraser",
+          "Company": "Magic Studio",
+          "description": "AI-powered photo editor to easily remove unwanted objects from your photos in seconds.",
+          "link": "https://magicstudio.com/magiceraser",
+          "image": "images/MagicEraser.png"
+        },
+        {
+          "name": "Playground AI",
+          "Company": "-",
+          "description": "Playground AI is an AI-powered online image creator that, you can easily generate artistic designs, social media posts, presentations, posters, logos, videos, and many other creative content.",
+          "link": "https://playgroundai.com/",
+          "image": "images/playground.png"
+        },
+        {
+          "name": "Hotpot",
+          "Company": "Panabee, LLC.",
+          "description": "AI tools that can remove backgrounds, restore damaged pictures, colorize old photos and many more.",
+          "link": "https://hotpot.ai/",
+          "image": "images/hotpot.png"
+        }
+      ]
+    },
+    {
+      "type": "Business",
+      "items": [
+        {
+          "name": "ValidatorAI",
+          "Company": "Aron Meystedt",
+          "description": "You can get a constructive feedback on any startup idea with an AI-powered business validator!",
+          "link": "https://validatorai.com",
+          "image": "images/validatorAI.png"
+        },
+        {
+          "name": "NamingMagic",
+          "Company": "swift ventures + openAI",
+          "description": "Use AI to name your company and find a the perfect domain name for it.",
+          "link": "https://namingmagic.com",
+          "image": "images/namingMagic.png"
+        },
+        {
+          "name": "Landbot",
+          "Company": "HELLO UMI S.L.",
+          "description": "Use Landbot to build web and WhatsApp chatbots using pre-built templates for various use cases, such as product assistance, checkout, customer surveys, lead generation, customer support and more.",
+          "link": "https://landbot.io/",
+          "image": "images/landbot.png"
+        }
+      ]
+    },
+    {
+      "type": "School",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "Company": "Openai",
+          "description": "Chatbot that generates contextually relevant responses to user input in natural language conversations.",
+          "link": "https://chat.openai.com/chat",
+          "image": "../images/ChatGPT.gif"
+        },
+        {
+          "name": "good ai",
+          "Company": "Keen software house",
+          "description": "AI essay writer, that is designed to produce high-quality essays using advanced algorithms and natural language processing techniques.",
+          "link": "https://www.the-good-ai.com/",
+          "image": "images/goodai.png"
+        },
+        {
+          "name": "Smodin",
+          "Company": "Smodin LLC",
+          "description": "AI-powered tool you can effortlessly create top-level essays with just five words, saving you valuable time and effort.",
+          "link": "https://smodin.io/",
+          "image": "images/smodin.png"
+        },
+        {
+          "name": "Krisp",
+          "Company": "Krisp Technologies",
+          "description": "World's leading AI technology that effectively removes background voices and echoes, leaving you with uninterrupted and stress-free online class.",
+          "link": "https://krisp.ai/",
+          "image": "images/krisp.png"
+        },
+        {
+          "name": "Summarize",
+          "Company": "Pete Hunt",
+          "description": "Get a summary of any long YouTube video, like a lecture, live event or a government meeting.",
+          "link": "https://www.summarize.tech/",
+          "image": "images/summarize.png"
+        },
+        {
+          "name": "tome",
+          "Company": "Magical Tome, Inc",
+          "description": "Tome is a tool that helps you creat presentations, or outlines quickly and easily and it can automatically create titles, page numbers, layouts, and text for each page.",
+          "link": "https://beta.tome.app/",
+          "image": "images/tome.png"
+        },
+        {
+          "name": "scite_",
+          "Company": "scite Inc.",
+          "description": "Scite uses Smart Citations to help you discover and evaluate scientific articles quickly and efficiently. With Scite, you can easily find expert analysis and opinions on your topic.",
+          "link": "https://scite.ai/",
+          "image": "images/scite.png"
+        }
+      ]
+    }
+  ]
+}
