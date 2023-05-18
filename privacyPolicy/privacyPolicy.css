@@ -361,6 +361,8 @@ a{
 }
 .privacy{
     color:rgb(0, 0, 0);
+    text-align: justify;
+
 }
 .topic{
     color: #000000;
