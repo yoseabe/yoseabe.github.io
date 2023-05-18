@@ -9,7 +9,7 @@
           "Company": "Openai",
           "description": "Chatbot that generates contextually relevant responses to user input in natural language conversations.",
           "link": "https://chat.openai.com/chat",
-          "image": "images/ChatGPT.png"
+          "image": "images/chatGPT.gif"
         },
         {
           "name": "Midjourney",
@@ -17,14 +17,14 @@
           "page": "artandcreativityPage/artandcreativity.html",
           "description": "An artificial intelligence capable of creating high-quality AI-generated art using Discord.",
           "link": "https://midjourney.com/home/?callbackUrl=%2Fapp%2F",
-          "image": "images/MidJourneyLogo.png"
+          "image": "images/midjourney.gif"
         },
         {
           "name": "DALL·E 2",
           "Company": "Openai",
           "description": "A new AI system that can create realistic images and art from a description in natural language.",
           "link": "https://openai.com/dall-e-2/",
-          "image": "images/dalle2.gif"
+          "image": "images/DALLE2.gif"
         },
         {
           "name": "Magic Eraser",
