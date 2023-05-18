@@ -186,7 +186,7 @@ a{
 .logo{
 	margin: 0;
 	display: inline-block;
-	position: fixed;
+	position: static;
 	top: 10px;
 	left: 0;
 	right: 0;
