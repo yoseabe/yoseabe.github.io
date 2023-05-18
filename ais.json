@@ -98,21 +98,21 @@
           "Company": "Magic Studio",
           "description": "AI-powered photo editor to easily remove unwanted objects from your photos in seconds.",
           "link": "https://magicstudio.com/magiceraser",
-          "image": "/images/MagicEraser.png"
+          "image": "Images/MagicEraser.png"
         },
         {
           "name": "Playground AI",
           "Company": "-",
           "description": "Playground AI is an AI-powered online image creator that, you can easily generate artistic designs, social media posts, presentations, posters, logos, videos, and many other creative content.",
           "link": "https://playgroundai.com/",
-          "image": "images/playground.png"
+          "image": "Images/playground.png"
         },
         {
           "name": "Hotpot",
           "Company": "Panabee, LLC.",
           "description": "AI tools that can remove backgrounds, restore damaged pictures, colorize old photos and many more.",
           "link": "https://hotpot.ai/",
-          "image": "images/hotpot.png"
+          "image": "Images/hotpot.png"
         }
       ]
     },
