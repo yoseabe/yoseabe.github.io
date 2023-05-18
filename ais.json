@@ -98,7 +98,7 @@
           "Company": "Magic Studio",
           "description": "AI-powered photo editor to easily remove unwanted objects from your photos in seconds.",
           "link": "https://magicstudio.com/magiceraser",
-          "image": "../images/MidJourneyLogo.png"
+          "image": "/images/MagicEraser.png"
         },
         {
           "name": "Playground AI",
