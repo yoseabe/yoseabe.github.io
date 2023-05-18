@@ -71,7 +71,7 @@
           "Company": "Openai",
           "description": "Chatbot that generates contextually relevant responses to user input in natural language conversations.",
           "link": "https://chat.openai.com/chat",
-          "image": "../images/ChatGPT.gif"
+          "image": "../images/ChatGPT.png"
         },
         {
           "name": "YouChat",
