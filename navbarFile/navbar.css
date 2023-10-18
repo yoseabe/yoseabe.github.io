@@ -67,10 +67,10 @@ nav a {
 .navbar-toggle {
 	display: block;
 	position: absolute;
-	top: 25px; 
+	top: 28px; 
 	left:30px; 
-	width: 22px;
-	height: 15px;
+	width: 15px;
+	height: 14px;
 	cursor: pointer;
 	padding: 1px;
 	padding-right: 10px;
